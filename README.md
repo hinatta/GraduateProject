@@ -31,3 +31,7 @@ AI의 경우 Behaviour Tree를 사용하여 개발이 되었으며, State에 따
 최적화를 위해 Light의 경우 RealLight를 배제하고 모두 BakedLight를 이용하였으며, 위치별 광원의 경우에는 LightProbe를 이용하여 위치에 따른 광원을 간접적으로 표현할 수 있도록 설정했으며, Reflection Probe를 사용하여 유리와 같은 부분의 반사를 표현했습니다.
 
 또한, Render 자체를 구분하고 Render를 하지 않는 Occlusion Culling을 이용하여 큰 맵을 효과적으로 관리시킬 수 있도록 하여 최적화 시켰습니다.
+
+# 유튜브 링크
+
+https://www.youtube.com/watch?v=nEQKsRHrbvg
